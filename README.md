@@ -1,2 +1,2 @@
 # DennisBinford.github.io
-Repository for Personal Website
+Repository for Personal Websit
